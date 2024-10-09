@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+tensorflow
+joblib
+scikit-learn
+pydantic
