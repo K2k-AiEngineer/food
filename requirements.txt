@@ -1,8 +1,10 @@
 fastapi
 uvicorn
 numpy
+python-multipart
 opencv-python-headless
 tensorflow
 joblib
 scikit-learn
 pydantic
+keras
