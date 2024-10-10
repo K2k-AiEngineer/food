@@ -31,7 +31,7 @@ This project implements a **Food vs Non-Food Image Classifier** using **FastAPI*
 └── README.md                  # Project documentation
 ```
 
-# ⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 
 ### Clone the repository:
 git clone https://github.com/yourusername/food-vs-non-food.git
