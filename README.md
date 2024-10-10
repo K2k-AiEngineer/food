@@ -29,3 +29,18 @@ This project implements a **Food vs Non-Food Image Classifier** using **FastAPI*
 ├── main.py                    # FastAPI main app code
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
+
+
+# ⚙️ How to Run Locally
+
+### Clone the repository:
+git clone https://github.com/yourusername/food-vs-non-food.git
+cd food-vs-non-food
+
+### Install dependencies:
+pip install -r requirements.txt
+
+###Run the FastAPI app
+uvicorn main:app --reload
+
+
