@@ -34,7 +34,7 @@ This project implements a **Food vs Non-Food Image Classifier** using **FastAPI*
 ## ⚙️ How to Run Locally
 
 ### Clone the repository:
-git clone https://github.com/yourusername/food-vs-non-food.git
+git clone [https://github.com/yourusername/food-vs-non-food.git](https://github.com/K2k-AiEngineer/food.git)
 cd food-vs-non-food
 
 ### Install dependencies:
