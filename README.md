@@ -29,7 +29,7 @@ This project implements a **Food vs Non-Food Image Classifier** using **FastAPI*
 ├── main.py                    # FastAPI main app code
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
-
+```
 
 # ⚙️ How to Run Locally
 
